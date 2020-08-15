@@ -1,0 +1,23 @@
+body{
+	background-color: #2E3440;
+	font-family: 	  "Courier New", Courier, monospace;
+	max-width:	  900px;
+	margin-left:	  auto;
+	margin-right:	  auto;
+}
+
+article{
+	color: #81A1C1;
+	font-size: 250%;
+	text-align: center;
+	border:	2px solid #81A1C1;
+	background-color:	#D8DEE9;	
+	
+}
+
+h1, h2{
+	text-align: center;
+	color: #81A1C1;
+	font-size: 250%;
+
+}
